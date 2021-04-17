@@ -2,3 +2,4 @@ Franz Beltran
 Ingeniero de sistemas
 UCB
 UX
+HTML, CSS, JS
