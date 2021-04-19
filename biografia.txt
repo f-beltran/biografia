@@ -3,3 +3,4 @@ Ingeniero de sistemas
 UCB
 UX
 HTML, CSS, JS
+Bolivia
